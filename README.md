@@ -25,3 +25,31 @@ string endereco;
 ### O Contrato
 
 - O usuário concorda ou não em se filiar e se concorda em receber email de marketing.
+
+#### Roteiro:
+
+- Fala galera! Thabata Ganga aqui e estou voltando com mais um vídeo sobre blockchain! E hoje eu vou ensinar para vocês como rodar a sua própria blockchain e criar uma criptmoeda!
+
+- Eu estou fazendo mestrado na Unifesp em Inovação Tecnológica, fiz uma disciplina sobre Blockchain e o trabalho fnal foi criar um exemplo prático de aplicação, então eu resolvi fazer um contrato digital de filiação sindical e criar a minha criptomoeda SINDY!
+
+- A primeira coisa que a gente precisa fazer é instalar a Metamesk e criar uma carteira! Ao contrário do que muitos pensam, ela não serve para armazenar criptomoedas, mas sim para armazenar senhas!
+
+- A carteira na verdade é uma espécie de chaveiro, onde você pode guardar as chaves para acessar desde um mundo novo com NFTs, até contratos, seus dados privados de saúde e identidades digitais.
+
+- No caso do meu projeto, resolvi trabalhar com dois tipos de aplicação: Contrato de Filiação e Identidade Digital!
+
+- Aqui na metamask ela vai pedir para colocar uma senha e guardar uma frase: que voce vai escrever em um papel e não deixar vulneravel a ataques em um computadir!
+
+- Agora, vou ensinar voc~es como ganhar Ethereum de forma infinita: ..... mas, esse eth não é de verdade e serve apenas para desenvolver e testar aplicações!
+
+- Com a nossa carteira configurada e conectada há rede de testes, vamos agora usar o REMIX, uma interface web para facilitar e universalizar o desenvolvimento de DApp (Aplicativos descentralizados)
+
+- Explica a estrutura do código ....
+
+- Roda os testes ...
+
+- Abre o Ganache ...
+
+- Comenta sobre o Gás ...
+
+- Conlclui
