@@ -31,6 +31,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "colaborador",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "dataDeDesfiliacao",
 				"outputs": [
 					{
@@ -97,7 +110,7 @@
 						"type": "address[]"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -108,7 +121,11 @@
 		},
 		"userdoc": {
 			"kind": "user",
-			"methods": {},
+			"methods": {
+				"assinar(uint8)": {
+					"notice": "Definir o comportamento do contrato"
+				}
+			},
 			"version": 1
 		}
 	},
@@ -129,11 +146,11 @@
 	},
 	"sources": {
 		"FiliacaoSindical.sol": {
-			"keccak256": "0x2b126283e804a7ccf59acf4fcf0dab79e4f6282d55acb41604196c12d7d62332",
+			"keccak256": "0xdb0c4bc335ebe3573a33c1eb0f67ba3345d8dd4a3e137493315e948637a88ea4",
 			"license": "GPL-3.0-or-later",
 			"urls": [
-				"bzz-raw://557bf8873ddf7e8449b03bc246144950eb37f4dafe8301eed84dc8ad5cd047d9",
-				"dweb:/ipfs/QmUCwhUPeMwVpvN5xBktyhoFEJZoxgmBB6jNtqzuvaJse9"
+				"bzz-raw://95396f420a80f38aebf97ca734e8d934d5eb6eceae8756228fe2677bda4b1f46",
+				"dweb:/ipfs/QmYHjVKCjjxwRLewFqWxuoraGZ3TA7QfSJozZ9VufFgemC"
 			]
 		}
 	},

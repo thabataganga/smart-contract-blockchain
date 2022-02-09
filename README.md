@@ -25,3 +25,7 @@ string endereco;
 ### O Contrato
 
 - O usuário concorda ou não em se filiar e se concorda em receber email de marketing.
+
+### Roteiro vídeo
+
+- Como ficar rico com sindicato e criptomoedas
