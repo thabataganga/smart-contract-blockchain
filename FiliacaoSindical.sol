@@ -6,7 +6,7 @@ contract FiliacaoSindical {
     // Campos publicos
     string public termos;
     string public empresa;
-    string public dataDeAssinatura;
+    uint256 public dataDeAssinatura;
     address public sindicato; // Endereco de quem criou
 
     // Campos privados
@@ -36,6 +36,7 @@ contract FiliacaoSindical {
     // Guarda o estado
     constructor(string memory _termos) {
         sindicato = msg.sender;
+        dataDeAssinatura = block.timestamp;
         termos = _termos;
     }
 
